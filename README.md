@@ -1,4 +1,4 @@
-Sure! Let's update the project description to focus on the new uploaded file, `NLP Speech Recognizer.ipynb`, assuming it involves building and using a natural language processing model for speech recognition. Here is the detailed project description:
+`NLP Speech Recognizer.ipynb`, assuming it involves building and using a natural language processing model for speech recognition. Here is the detailed project description:
 
 ---
 
